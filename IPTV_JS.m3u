@@ -1,4 +1,3 @@
 #EXTM3U x-tvg-url="https://gitee.com/taksssss/tv/raw/main/epg/epgpw_cn.xml.gz"
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视" catchup="default" catchup-source="http://gslb.itv.jsinfo.net:6060/00000002/01000000000009320253000002939369/index.m3u8?Playtype=1&Playseek={utc:YmdHMS}-{utcend:YmdHMS}",CCTV1
 http://192.168.100.254:5140/rtp/239.49.8.19:9614?fcc=180.100.72.185:15970
