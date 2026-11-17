@@ -1,4 +1,4 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-name="CCTV1" group-title="央视频道", CCTV1
-http://192.168.100.254:5140/rtp/239.49.8.19:9614
+rtp://239.49.8.19:9614
